@@ -16,6 +16,10 @@ cd hookhelper
 plugin load /<path-to-the-plugin>/hookhelper
 ```
 
+![image](https://github.com/user-attachments/assets/2304e0e7-f866-4d8f-8b0c-c08f8dde1821)
+
+
+
 ### changeVar
 ```
  plugin hookhelper changeVar --package-name <package_name> --class-name <class_name> --variable-name <variable_name> --new-value <new_value> <--int|--string|--boolean>
