@@ -2,7 +2,7 @@
 Objection Plugin that can help you during the dynamic analysis process.
 This plugin is developed to learn how far I can use Objection to help activities during dynamic analysis. 
 
-# Usage
+## Install
 
 1. Clone this repo
 ```
@@ -19,6 +19,7 @@ plugin load /<path-to-the-plugin>/hookhelper
 ![image](https://github.com/user-attachments/assets/2304e0e7-f866-4d8f-8b0c-c08f8dde1821)
 
 
+## Usage
 
 ### changeVar
 ```
