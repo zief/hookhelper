@@ -6,7 +6,8 @@ This plugin is developed to learn how far I can use Objection to help activities
 
 1. Clone this repo
 ```
-git clone
+git clone https://github.com/zief/hookhelper
+cd hookhelper
 ```
 
 2. Load the plugin to Objection
